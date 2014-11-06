@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+<general>
+<usuario name="jcla001" password="!RC6+C;'T]k:86k74ydK"/>
+</general>
+<inspecciones>
+<inspeccion>
+<OT numero="1212" AreaSolicitante="Obras Publicas" Direccion="Av. Larco 214, Piso 3" tipocaptura="Foto" tipolugar="Predio" tipoinspeccion="estacionaria" FechaProgramada="10/11/2014" Contacto="Humberto Medina" Instrucciones="Tomar no menos de 4 fotos de la fachada"/>
+<geodata latitud="-12.12243296294296" longiud="-77.02922022723084" mazanacatastral="0501" lotecatastral="025"/>
+</inspeccion>
+<inspeccion>
+<OT numero="1213" AreaSolicitante="Rentas" Direccion="Av. Benavides 414" tipocaptura="Video" tipolugar="Grupo Habitacional" tipoinspeccion="estacionaria" FechaProgramada="10/11/2014" Contacto="Carlos Ramirez" Instrucciones="Tomar no menos de 2 fotos de la fachada"/>
+<geodata latitud="-12.12471968478774" longiud="-77.02857649706726" mazanacatastral="0521" lotecatastral="017"/>
+</inspeccion>
+<inspeccion>
+<OT numero="1214" AreaSolicitante="Obras Publicas" Direccion="Av. Benavides 2012" tipocaptura="Foto" tipolugar="Construcción" tipoinspeccion="estacionaria" FechaProgramada="10/11/2014" Contacto="Franklyn Perez" Instrucciones="Tomar no menos de 3 fotos de la fachada"/>
+<geodata latitud="-12.12513926464889" longiud="-77.02565825365906" mazanacatastral="0450" lotecatastral="016"/>
+</inspeccion>
+<inspeccion>
+<OT numero="1215" AreaSolicitante="Permiso" Direccion="Av. Shell 125" tipocaptura="Video" tipolugar="Predio" tipoinspeccion="estacionaria" FechaProgramada="10/11/2014" Contacto="Juan Perez" Instrucciones="Tomar no menos de 2 fotos de la fachada"/>
+<geodata latitud="-12.122831567244136" longiud="-77.02969229601746" mazanacatastral="0481" lotecatastral="028"/>
+</inspeccion>
+</inspecciones>
+</export>
